@@ -68,7 +68,7 @@ Business Insights & Recommendations
 
 ### Entity Relationship Schema
 
-![ER Schema](images/fraud_detection_er_schema.png)
+![ER Schema]([images/fraud_detection_er_schema.png](https://github.com/VisheshSingh414/Data-Analysis-of-Fraudulent-Patterns-in-Online-Job-Postings/blob/main/Images/Fraud_Detection_E-R%20Schema%20.png))
 
 The data model follows a structured approach to support efficient reporting and dashboard performance.
 
@@ -78,11 +78,11 @@ The data model follows a structured approach to support efficient reporting and 
 
 ### Fraud Detection Dashboard
 
-![Power BI Dashboard](images/powerbi_dashboard.png)
+![Power BI Dashboard]((https://github.com/VisheshSingh414/Data-Analysis-of-Fraudulent-Patterns-in-Online-Job-Postings/blob/main/Images/Powerbi_Dashboard.png))
 
 ### Excel ETL Dashboard
 
-![Excel ETL Dashboard](images/excel_etl_dashboard.png)
+![Excel ETL Dashboard]([images/excel_etl_dashboard.png](https://github.com/VisheshSingh414/Data-Analysis-of-Fraudulent-Patterns-in-Online-Job-Postings/blob/main/Images/Excel_ETL_dashboard.png))
 
 ---
 
@@ -210,4 +210,3 @@ Aspiring Data Analyst | Power BI Developer | SQL Enthusiast
 
 ---
 
-⭐ If you found this project interesting, consider giving it a star!
