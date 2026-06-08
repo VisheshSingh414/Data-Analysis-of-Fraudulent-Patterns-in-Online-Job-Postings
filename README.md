@@ -78,11 +78,7 @@ The data model follows a structured approach to support efficient reporting and 
 
 ### Fraud Detection Dashboard
 
-![Power BI Dashboard](https://github.com/VisheshSingh414/Data-Analysis-of-Fraudulent-Patterns-in-Online-Job-Postings/blob/main/Images/Fraud_detection_Dashboard.png)
-
-### Excel ETL Dashboard
-
-![Excel ETL Dashboard](https://github.com/VisheshSingh414/Data-Analysis-of-Fraudulent-Patterns-in-Online-Job-Postings/blob/main/Images/Excel_ETL_dashboard.png)
+![Power BI Dashboard](https://github.com/VisheshSingh414/Data-Analysis-of-Fraudulent-Patterns-in-Online-Job-Postings/blob/main/Images/fraud_detection_project_dashboard%20.png)
 
 ---
 
